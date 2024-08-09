@@ -1,0 +1,443 @@
+1- Pijama
+2- Eşofman
+3- Pardösü
+4- Ferace
+5- Gömlek
+6- Halhal
+
+1- Atmaca
+2- Akbaba
+3- Balina
+4- Mezgit
+5- Leylek
+6- Çipura
+7- Pirana
+8- Bülbül
+9- Kuzgun
+10- Maymun
+11- Kaplan
+12- Yarasa
+13- Timsah
+
+1- Görmek
+2- Sevmek
+3- Bilmek
+4- Sezmek
+5- Susmak
+6- Gitmek
+7- Gelmek
+8- Durmak
+9- Kalmak
+10- Katmak
+11- Saçmak
+12- Satmak
+13- Bulmak
+14- Aramak
+15- Sanmak
+16- Yanmak
+17- Dökmek
+18- Basmak
+19- Dalmak
+20- Batmak
+1- Çaylak
+2- Acemi
+3- Sessiz
+4- Parlak
+5- Rahşan
+6- Edepli
+7- Müsrif
+8- Mahzun
+9- Dürüst
+10- Sıddık
+11- Ebedi
+12- Ezeli
+13- Bedihi
+14- Sağlam
+15- Edebi
+14- Şanslı
+15- Uğurlu
+16- Zengin
+17- Aşikar
+18- Kapalı
+19- Muğlak
+20- Yatkın
+21- Borçlu
+22- Suçsuz
+23- İnatçı
+24- Korkak
+25- Hayran
+26- Şaşkın
+27- Aykırı
+28- Uyumlu
+29- Hırslı
+30- Muhrik
+31- Yakıcı
+32- Acılı
+33- Tembel
+34- Geçici
+35- Yorgun
+36- Hileli
+37- Huysuz
+38- Sarhoş
+39- Gülünç
+40- Geveze
+
+
+1- Mahrem
+2- Endişe
+3- Merhum
+4- İşaret
+5- Mihnet
+6- Zahmet
+7- Külfet
+8- Hizmet
+9- Yardım
+10- Teknik
+11- Hüsran
+12- Gurbet
+13- Tenvir
+14- Yastık
+15- Katana
+16- Kıymet
+17- Kurşun
+18- Nedime
+19- Hırsız
+20- Kitabe
+21- Cetvel
+22- Mevcut
+23- Mermer
+24- Tahsil
+25- Merkür
+26- Gerçek
+27- Yaprak
+28- Varlık
+29- Tabiat
+30- Düşman
+31- Sevinç
+32- Şömine
+33- Dürbün
+34- Talebe
+35- Saraka
+36- Hatıra
+37- Deneme
+38- Makale
+39- Hikaye
+40- Cennet
+41- Sağlık
+42- Sıhhat
+
+1- Defans
+2-- Forvet
+3- Futbol
+4- Ofsayt
+5- Stoper
+6- Kaleci
+7- Korner
+ 1- Çanta
+
+ 2- Tahta 
+
+ 3- Çekiç 
+
+ 4- Radyo 
+
+ 5- Kağıt 
+
+ 6- Sehpa 
+
+ 7- Dolap 
+
+ 8- Kalem 
+
+ 9- Kaşık 
+
+ 10- Bıçak 
+
+ 11- Tabak 
+
+ 12- Tablo
+
+ 13- Lamba 
+
+ 14- Tepsi 
+
+ 15- Kilit 
+
+ 16- Rende 
+
+ 17- Ayraç 
+
+ 18- Makas
+
+ 1- Sadık 
+
+ 2- Zayıf 
+
+ 3- Sakin 
+
+ 4- Yalın 
+
+ 5- Alçak
+
+ 6- Rezil 
+
+ 7- Ebedi 
+
+ 8- Ezeli 
+
+ 9- Vazıh 
+
+ 10- Fakir
+
+ 11- Asabi 
+
+ 12- Ferah 
+
+ 13- Güzel 
+
+ 14- Nadir 
+
+ 15- Nazik 
+
+ 16- Kibar
+
+ 17- Sabit 
+
+ 18- Yakın 
+
+ 19- Derin 
+
+ 20- Temiz 
+
+ 21- Gizli 
+
+ 22- Kutlu 
+
+ 23- Kolay 
+
+ 24- Basit 
+
+ 25- Beşir 
+
+ 26- Gamlı 
+
+ 27- Latif 
+
+ 28- İçsel 
+
+ 29- Zebun 
+
+ 30- Cimri 
+ 1- Gurur
+
+ 2- Kibir
+
+ 3- Sinir
+
+ 4- Ahlak 
+
+ 5- Madde 
+
+ 6- Anlam 
+
+ 7- Namus 
+
+ 8- Efsun 
+
+ 9- Hitap 
+
+ 10- Kelam 
+
+ 11- Kanıt 
+
+ 12- Delil 
+
+ 13- Batıl 
+
+ 14- Yalan 
+
+ 15- Doğru 
+
+ 16- Yüzey 
+
+ 17- Çıkış 
+
+ 18- Giriş 
+
+ 19- Defin
+
+ 20- Kabir
+
+ 21- Gömüt 
+
+ 22- Mezar
+
+ 23- Bahçe 
+
+ 24- Hotel 
+
+ 25- Antre 
+
+ 26- Salon 
+
+ 27- Kiler 
+
+ 28- Banyo 
+
+ 29- Beton 
+
+ 30- Doruk 
+
+ 31- Dahil 
+
+ 32- Davul 
+
+ 33- Kabul 
+
+ 34- Diğer
+
+ 35- Öteki 
+
+ 36- Daima 
+
+ 37- Şimdi 
+
+ 38- Yarın 
+
+ 39- Bugün 
+
+ 40- Evvel 
+
+ 41- Sonra 
+
+ 42- Kayıt 
+
+ 43- Satır
+
+ 44- Mısra
+
+ 45- Roman
+ 1- Mengene 
+
+ 2- Işıldak 
+
+ 3- Testere 
+
+ 4- Tencere 
+
+ 5- Mobilya 
+
+ 6- Telefon 
+
+ 7- Karyola 
+
+ 8- Firkete
+1- Karınca 
+
+ 2- Papağan 
+
+ 3- Örümcek 
+
+ 4- Penguen 
+
+ 5- Balaban 
+
+ 6- Pelikan 
+
+ 7- Kızkuşu 
+
+ 8- Kukumav 
+
+ 1- Muhalif 
+
+ 2- Realist
+
+ 3- Sayısal 
+
+ 4- Payidar 
+
+ 5- Müessir 
+
+ 6- Tesirli 
+
+ 7- Muvafık 
+
+ 8- Mutabık
+
+ 9- Faydalı 
+
+ 10- Güvenli 
+
+ 11- Mübarek 
+
+ 12- Yumuşak 
+
+ 13- Mürebbi 
+
+ 14- Detaylı 
+
+ 15- Yararlı 
+
+ 16- Çeşitli 
+
+ 17- Saygılı 
+
+ 18- Utangaç 
+
+ 19- Değişik 
+
+ 20- Alışkın 
+
+ 21- Manidar 
+
+ 22- Dairevi 
+
+ 23- Gururlu 
+
+ 24- İradeli 
+
+ 25- Kasıntı 
+
+ 26- Mutedil 
+
+ 27- Mutekit 
+
+ 28- Muteriz 
+
+ 29- Müşteki
+
+ 30- Çalçene 
+
+ 31- Çaçaron
+
+ 32- Lafazan 
+
+ 33- Münzevi 
+
+ 34- İşgüzar 
+
+ 35- Tahmini 
+
+
+ 1- Ukrayna 
+
+ 2- Romanya 
+
+ 3- Bayburt 
+
+ 4- Kocaeli 
+
+ 5- Selanik 
+
+ 6- Malatya 
+
+ 7- Uruguay 
+
+ 8- Kayseri 
+
+ 9- Antalya 
+
+ 10- Antakya 
+
+astronot, antoloji, arkeolog, atmosfer, baloncuk, biyoloji, biyografi, bostancı, bozuşmak, karbonat, komplike, komposto 
+Ayakkabı, kalemlik, sandalye, kitaplık, merdiven, kulaklık, mondolin, kerpeten
